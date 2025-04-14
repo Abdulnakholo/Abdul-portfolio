@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Data Scientist and Machine Learning Engineer with a strong foundation in mathematics and computer science. I specialize in data wrangling, signal processing, biomedical data analysis, and building AI-driven solutions. I am passionate about using data to solve real-world challenges, especially in healthcare, agriculture, finance, and e-commerce industries.
+I am a Data Scientist and Machine Learning Engineer with a strong foundation in mathematics and computer science. I specialize in data wrangling, data analysis, signal processing, biomedical data analysis, and building AI-driven solutions. I am passionate about using data to solve real-world challenges, especially in healthcare, agriculture, finance, and e-commerce industries.
 
 Currently based in Lithuania, I am open to remote or on-site opportunities across Europe and beyond.
 
@@ -13,10 +13,11 @@ Currently based in Lithuania, I am open to remote or on-site opportunities acros
 ## Core Skills
 
 - **Programming Languages:** Python, SQL
+- **Data Processing:** Data Cleaning and Wrangling, Data Preprocessing, Statistical Analysis, Data Visualization
 - **Machine Learning:** Deep Learning, Neural Networks, Classification, Regression
 - **Signal Processing:** Noise Reduction, Time Series Analysis, Frequency Domain Analysis
 - **Radar-Based Sensing:** Acconeer radar signal analysis, Biomedical signal processing (Heart Rate and Breathing Rate)
-- **Web Technologies:** Django, Django Rest Framework, Docker
+- **Web Technologies:** Django, Django Rest Framework, Docker, Flask
 - **Data Visualization:** Tableau, Matplotlib, Seaborn
 - **Tools:** TensorFlow, Scikit-learn, Pandas, NumPy, Geopandas, Google Earth Engine
 
@@ -51,13 +52,23 @@ Currently based in Lithuania, I am open to remote or on-site opportunities acros
 - **Internal Project**
 
 ### 6. E-Commerce Data Processing Engine
-- Built a scalable backend system using Django for an E-commerce data processing platform.
+- Built a scalable backend system using Django for an e-commerce data processing platform.
 - Automated data cleaning, wrangling, and readiness for machine learning tasks.
 - **[GitHub Repository](#)**
 
 ### 7. Climatic Changes Analysis in Nairobi Using Landsat Imagery
 - Processed Landsat satellite imagery from 2018–2022 to analyze climatic trends in Nairobi.
 - Applied remote sensing and geospatial analysis techniques using Google Earth Engine and Geopandas.
+- **[GitHub Repository](#)**
+
+### 8. Tomato Sickness Detection Web App
+- Developed an AI-powered web application for automated tomato sickness detection using leaf images.
+- Utilized convolutional neural networks for classification and deployed the model using Flask.
+- **[GitHub Repository](#)**
+
+### 9. Analyzing Marketing Campaigns
+- Conducted a comprehensive analysis of marketing campaigns using data preprocessing, visualization, and statistical analysis techniques.
+- Delivered data-driven insights to optimize campaign strategies.
 - **[GitHub Repository](#)**
 
 ---
@@ -73,7 +84,7 @@ Currently based in Lithuania, I am open to remote or on-site opportunities acros
 ## Contact Information
 
 - **Email:** nakholoabdul@gmail.com
-- **Phone:** +254 708 738 854
+- **Phone:** +370 631 12298
 - **LinkedIn:** [LinkedIn Profile](#)
 - **GitHub:** [GitHub Profile](#)
 
