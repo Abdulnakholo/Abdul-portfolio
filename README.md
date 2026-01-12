@@ -1,5 +1,5 @@
 
-# Abdul Shisia Nakholo — AI / Data Science / Systems Portfolio 🚀
+# Abdul Shisia Nakholo — Data Scientist / Data Analyst / ML Portfolio 🚀
 
 ---
 
